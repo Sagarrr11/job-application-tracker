@@ -164,3 +164,7 @@ npm run dev
 - Cloud database
 - Application reminders
 - Deployment and production hosting
+
+## Live Demo
+
+[View ApplyLog Live](https://job-application-tracker-sigma-lime.vercel.app/)
